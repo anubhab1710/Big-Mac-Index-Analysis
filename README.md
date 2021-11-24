@@ -13,6 +13,8 @@ One of the key insights of the Big Mac Index is that a basket of goods in one co
 * Is there a relationship between the price of a Big Mac and the net hourly wages of workers around the world? If so, how strong is the relationship? 
 * Is it possible to develop a model to predict or determine the net hourly wage of a worker around the world by the price of a Big Mac hamburger in that country? If so, how good is the model? 
 
+> **Sample Size and Restrictions:** The data used is the weighted average of the daily wages of 12 professions in 27 countries with regard to the Big Mac Index. This project is aimed at finding the correlation between the net hourly wages of workers and the Big Mac Index and doesn't reflect any Purchasing Power Parity (PPP) of countries for which it stands. This is a statistical analysis and not an EDA.
+
 ## ML and Statistical techniques used: ⚙
 * Linear and Least Square Regression
 * t-test, F-test
