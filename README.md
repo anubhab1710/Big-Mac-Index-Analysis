@@ -1,5 +1,7 @@
 # <p align = "center">  Correlating the Big Mac Index with the Net Hourly Wages of workers in 27 Countries </p>
 
+<img src = "assets/Big Mac Index Poster.jpg" >
+
 ## What is the Big-Mac Index ? 🍔
 ***The Big Mac index*** is a survey created by The Economist magazine in 1986 to measure *Purchasing Power Parity (PPP)* between nations, using the price of a McDonald's Big Mac as the benchmark. Purchasing power parity is an economic theory which states that exchange rates over time should move in the direction of equality across national borders in the price charged for an identical basket of goods. In this case, the basket of goods is a Big Mac.  
 
